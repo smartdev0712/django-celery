@@ -1,6 +1,6 @@
-# Django Celery Example
+# Django Celery Project
 
-Django sample app that uses celery to queue tweets for posting to twitter.
+Django app that uses celery to queue tweets for posting to twitter.
 https://django-celery-example.herokuapp.com
 
 
@@ -16,7 +16,7 @@ Install system dependencies using a package manager. E.g. for OSX, using homebre
 
 Fork the project on github and git clone your fork, e.g.:
 
-    git clone https://github.com/<username>/django-celery-example.git
+    git clone https://github.com/greenwood712/django-celery.git
 
 Create a virtualenv using Python 3 and install dependencies. I recommend using [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/install.html#basic-installation) to that python. NOTE! You must change 'path/to/python3'
 to be the actual path to python3 on your system.
